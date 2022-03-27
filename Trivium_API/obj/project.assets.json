@@ -1327,26 +1327,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jhoow\\.nuget\\packages\\": {}
+    "C:\\Users\\Jonathan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Jhoow\\source\\repos\\Trivium_API\\Trivium_API\\Trivium_API.csproj",
+      "projectUniqueName": "C:\\Users\\Jonathan\\repos\\Trivium_API\\Trivium_API\\Trivium_API.csproj",
       "projectName": "Trivium_API",
-      "projectPath": "c:\\Users\\Jhoow\\source\\repos\\Trivium_API\\Trivium_API\\Trivium_API.csproj",
-      "packagesPath": "C:\\Users\\Jhoow\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Jhoow\\source\\repos\\Trivium_API\\Trivium_API\\obj\\",
+      "projectPath": "C:\\Users\\Jonathan\\repos\\Trivium_API\\Trivium_API\\Trivium_API.csproj",
+      "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jonathan\\repos\\Trivium_API\\Trivium_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jhoow\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
