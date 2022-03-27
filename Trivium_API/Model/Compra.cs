@@ -7,6 +7,8 @@ namespace Trivium_API.Model
         [ForeignKey("Cliente")]
         public int IDClient { get; set; }
         public Cliente? Cliente {get;set;}
+      
+        
 
     }
 }
