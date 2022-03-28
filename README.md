@@ -6,7 +6,7 @@ Os seguintes endpoints foram criados e seus respectivos caminhos estão especifi
   * GetClient: GET, recebendo como parâmetro a id, usado para retornar cliente específico;
   * CreateClient: POST usado para criar cliente novo;
   * UpdateClient: PATCH usado para atualizar cliente;
-  * DeleteClient: DELETE uasdo para excluir cliente;
+  * DeleteClient: DELETE usado para excluir cliente;
   * GetPurcharsesByClient: GET, recebendo como parâmetro a id do cliente, usado para buscar as compras de cliente específico, listando produtos e valor total da compra - REF Bonus #1;
   * GetMostBoughtProducts: GET, recebendo como parâmetro a id do cliente, usado para buscar os produtos mais comprados pelo cliente especificado - REF Bonus #4.
 
