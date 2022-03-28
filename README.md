@@ -14,7 +14,7 @@ Os seguintes endpoints foram criados e seus respectivos caminhos estão especifi
   * GetProducts: GET usado para retornar todos os produtos cadastrados;
   * GetProduct: GET, recebendo como parâmetro a id do produto, usado para retornar produto específico;
   * GetTotalFromProduct: GET, recebendo como parâmetro a id do produto, usado para buscar compras para um produto - REF Bonus #2;
-  * GetProfitByPurchase: GET, uasdo para listar produtos, total de compras e total arrecadado - REF Bonus #3.
+  * GetProfitByPurchase: GET, usado para listar produtos, total de compras e total arrecadado - REF Bonus #3.
 
 * PurchasesController
   * GetPurchases: GET usado para retornar todas as compras;
