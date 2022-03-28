@@ -1,5 +1,5 @@
 # Trivium_API
-<strong>Este projeto foi criado fazendo uso de Entity Framework e SQLite, a criação do banco de dados, tabelas e relações são feitas automaticamente pela classe Program.cs. </strong>
+<strong>Este projeto foi criado fazendo uso de Entity Framework e SQLite, a criação do banco de dados, tabelas e relações são feitas automaticamente pela classe Program.cs. As tabelas também são populadas automaticamente com dummy data, tendo como responsável a classe SeedData. </strong>
 Os seguintes endpoints foram criados e seus respectivos caminhos estão especificados na declaração das classes:
 * ClientsController
   * GetClients: GET usado para retornar todos os clientes cadastrados;
